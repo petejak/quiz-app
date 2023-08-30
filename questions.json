@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": [
+    {
+    "question": "What is red in Finnish?",
+    "answer": "punainen",
+    "opt1": "sininen",
+    "opt2": "keltainen",
+    "opt3": "vihreä"
+    },
+    {
+    "question": "What is blue in Finnish?",
+    "answer": "sininen",
+    "opt1": "punainen",
+    "opt2": "keltainen",
+    "opt3": "vihreä"
+    },
+    {
+    "question": "What is green in Finnish?",
+    "answer": "vihreä",
+    "opt1": "punainen",
+    "opt2": "keltainen",
+    "opt3": "sininen"
+    },
+    {
+    "question": "What is yellow in Finnish?",
+    "answer": "keltainen",
+    "opt1": "punainen",
+    "opt2": "sininen",
+    "opt3": "vihreä"
+    }
+    ]
+    }
